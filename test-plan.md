@@ -74,5 +74,5 @@ The primary goal is to validate that all calculator functions operate correctly,
 ---
 
 ## 10. Approval
-**Tester:** _[Your Name]_  
-**Date:** _[MM/DD/YYYY]_
+**Tester:** _Dreico Karlo Librodo_  
+**Date:** _08/15/2025_
