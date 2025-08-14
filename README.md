@@ -40,7 +40,7 @@ The objective of this project is to ensure that the calculator performs arithmet
 ## 📂 Repository Structure
 calculator-testing/ ├── README.md                # Project documentation ├── manual-test-cases.xlsx   # Manual test scenarios ├── automation/              # Automation scripts (optional) └── bug-reports/             # Defects with screenshots
 
-## 🚀 Running Automation Tests (If Added)
+## 🚀 Running Automation Tests
 Example for Python + Selenium:
 ```bash
 pip install -r requirements.txt
