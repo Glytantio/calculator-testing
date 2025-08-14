@@ -38,7 +38,7 @@ The objective of this project is to ensure that the calculator performs arithmet
 ---
 
 ## 📂 Repository Structure
-calculator-testing/ ├── README.md # Project documentation ├── manual-test-cases.xlsx   # Manual test scenarios ├── automation/              # Automation scripts (optional) └── bug-reports/             # Defects with screenshots
+calculator-testing/ ├── README.md                # Project documentation ├── manual-test-cases.xlsx   # Manual test scenarios ├── automation/              # Automation scripts (optional) └── bug-reports/             # Defects with screenshots
 
 ## 🚀 Running Automation Tests (If Added)
 Example for Python + Selenium:
