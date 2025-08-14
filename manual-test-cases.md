@@ -38,6 +38,6 @@ It is part of the **Calculator Testing QA Portfolio Project**.
 ---
 
 ## 🛠 Notes
-- **Test Environment:** Windows 11 Calculator App / Online Web Calculator
+- **Test Environment:** Windows 10 Calculator App / Calculator App of Android 14 Mobile Device
 - **Test Data:** Mix of positive, negative, decimal, and large numbers
 - **Precondition:** Calculator is reset before each test
