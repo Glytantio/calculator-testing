@@ -17,7 +17,7 @@ It is part of the **Calculator Testing QA Portfolio Project**.
 ---
 
 ## 🔍 Notes
-- **Test Environment:** Windows 11 Calculator App / Chrome Web Calculator
+- **Test Environment:** Windows 10 Calculator App / Android 14 Calculator App
 - **Reported By:** Dreico Karlo S. Librodo
 - **Reported Date:** 2025-08-15
 - **Bug Tracking Tool:** GitHub Issues
