@@ -11,10 +11,10 @@ The objective of this project is to ensure that the calculator performs arithmet
 ---
 
 ## 🛠 Tools & Technologies
-- **Manual Testing:** TestRail / Google Sheets / Excel
+- **Manual Testing Documentation:** Markdown (`.md` files on GitHub`)
 - **Automation (Optional):** Selenium, Cypress, or Playwright
-- **Programming Language:** Python / JavaScript
-- **Bug Tracking:** Jira / GitHub Issues
+- **Programming Language (Optional):** Python / JavaScript
+- **Bug Tracking:** GitHub Issues
 
 ---
 
