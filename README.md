@@ -41,6 +41,13 @@ The objective of this project is to ensure that the calculator performs arithmet
 
 ## 📂 Repository Structure
 calculator-testing/ ├── README.md                 # Project overview and instructions ├── manual-test-cases.md      # Manual test scenarios in Markdown format ├── bug-reports.md            # Example defect reports ├── automation/               # Automation scripts (optional) └── docs/                     # (Optional) Extra QA documentation like test plans
+---
+
+## 📄 Documentation
+- [Manual Test Cases](manual-test-cases.md)  
+- [Bug Reports](bug-reports.md)  
+
+---
 
 ## 🚀 Running Automation Tests
 Example for Python + Selenium:
