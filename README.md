@@ -46,6 +46,7 @@ calculator-testing/ ├── README.md                 # Project overview and i
 ---
 
 ## 📄 Documentation
+- [Test Plan](test-plan.md)  
 - [Manual Test Cases](manual-test-cases.md)  
 - [Bug Reports](bug-reports.md)  
 
