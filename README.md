@@ -19,22 +19,24 @@ The objective of this project is to ensure that the calculator performs arithmet
 ---
 
 ## ✅ Test Scenarios
-- **Basic Operations**
-  1. Addition of two numbers
-  2. Subtraction of two numbers
-  3. Multiplication of two numbers
-  4. Division of two numbers
-- **Edge Cases**
-  5. Division by zero
-  6. Operations with negative numbers
-  7. Decimal calculations
-  8. Very large number calculations
-- **Functional Tests**
-  9. Clear (C/AC) button functionality
-  10. Chained operations (`2 + 3 × 4`)
-  11. Order of operations (BODMAS/PEMDAS)
-  12. Continuous operations without pressing equals
 
+### Basic Operations
+1. Addition of two numbers
+2. Subtraction of two numbers
+3. Multiplication of two numbers
+4. Division of two numbers
+
+### Edge Cases
+1. Division by zero
+2. Operations with negative numbers
+3. Decimal calculations
+4. Very large number calculations
+
+### Functional Tests
+1. Clear (C/AC) button functionality
+2. Chained operations (e.g., `2 + 3 × 4`)
+3. Order of operations (PEMDAS/BODMAS)
+4. Continuous operations without pressing equals
 ---
 
 ## 📂 Repository Structure
