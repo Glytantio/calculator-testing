@@ -42,7 +42,17 @@ The objective of this project is to ensure that the calculator performs arithmet
 ## 📂 Repository Structure
 
 ```bash
-calculator-testing/ ├── README.md                 # Project overview and instructions ├── manual-test-cases.md      # Manual test scenarios in Markdown format ├── bug-reports.md            # Example defect reports ├── automation/               # Automation scripts (optional) └── docs/                     # (Optional) Extra QA documentation like test plans
+calculator-testing/ 
+├── README.md                 
+# Project overview and instructions 
+├── manual-test-cases.md      
+# Manual test scenarios in Markdown format 
+├── bug-reports.md            
+# Example defect reports 
+├── automation/               
+# Automation scripts (optional) 
+└── docs/                     
+# (Optional) Extra QA documentation like test plans
 ```
 
 ---
